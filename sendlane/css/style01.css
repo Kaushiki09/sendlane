@@ -1,0 +1,178 @@
+body {
+    border: solid;
+    border-width: 20px 20px;
+    border-color: #ffbc99;
+    font-family: sans-serif;
+  }
+  
+  .container {
+    width: 50%;
+    margin: 4rem;
+  }
+  
+  .container h1 {
+    margin-left: 2rem;
+  }
+  
+  .pod-1 {
+    margin: 2rem;
+    width: 50%;
+  }
+  
+  .pod-2 {
+    margin: 2rem;
+    width: 50%;
+    position: relative;
+    bottom: 6rem;
+  }
+  
+  .pod-3 {
+    margin: 2rem;
+    width: 50%;
+    position: relative;
+    bottom: 13rem;
+  }
+  
+  .pod-1 h4 {
+    color:#ff69b4;
+    text-align: right;
+    position: relative;
+    bottom: 6rem;
+    right: 5rem;
+  }
+  
+  .pod-1 p {
+    text-align: left;
+    position: relative;
+    bottom: 7rem;
+    left: 7.5rem;
+  }
+  
+  .pod-2 h4 {
+    color:#ff69b4;
+    text-align: right;
+    position: relative;
+    bottom: 6rem;
+    right: 5rem;
+  }
+  
+  .pod-2 p {
+    text-align: left;
+    position: relative;
+    bottom: 7rem;
+    left: 7.5rem;
+  }
+  
+  .pod-3 h4 {
+    color:#ff69b4;
+    text-align: right;
+    position: relative;
+    bottom: 6rem;
+    right: 5rem;
+  }
+  
+  .pod-3 p {
+    text-align: left;
+    position: relative;
+    bottom: 7rem;
+    left: 7.5rem;
+  }
+  
+  .container-1 {
+    background: #000;
+    border-radius: 10px;
+    position: absolute;
+    top: 15rem;
+    left: 45rem;
+    width: 23rem;
+    height: 17rem;
+    text-align: center;
+  }
+  
+  .container-1 h3 {
+    color: #fff;
+  }
+  
+  .container-1 h2 {
+    color: #fff;
+    font-size: 2rem;
+    width: 50%;
+    position: relative;
+    left: 92px;
+    bottom: 30px;
+  }
+  
+  .container-1 h1 {
+    background: #fe3c78;
+    border-radius: 10px;
+    color: #fff;
+    position: relative;
+    left: 5.5rem;
+    bottom: 3.5rem;
+    font-size: 2.5rem;
+    width: 12rem;
+    height: 4rem;
+  }
+  
+  button {
+    background: grey;
+    border-color: #000;
+    border-radius: 5px;
+    position: relative;
+    bottom: 4.5rem;
+    width: 6rem;
+    height: 2rem;
+    cursor: pointer;
+  }
+  
+  .container-2 {
+    margin: 5rem;
+    width: 100%;
+    position: relative;
+    bottom: 17rem;
+  }
+  
+  .main-2 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .st-1 {
+    width: 30%;
+  }
+  
+  .st-2 {
+    width: 30%;
+  }
+  
+  .st-3 {
+    width: 30%;
+  }
+  
+  .st-1 h4 {
+    color:#ff69b4;
+    margin-top: 0.8rem;
+  }
+  
+  .st-1 p {
+    margin-top: -1rem;
+  }
+  
+  .st-2 h4 {
+    color:#ff69b4;
+    margin-top: 0.8rem;
+  }
+  
+  .st-2 p {
+    margin-top: -1rem;
+  }
+  
+  .st-3 h4 {
+    color:#ff69b4;
+    margin-top: 0.8rem;
+  }
+  
+  .st-3 p {
+    margin-top: -1rem;
+  }
+    
